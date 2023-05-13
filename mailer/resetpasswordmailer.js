@@ -12,7 +12,7 @@ exports.resetMail = (k,user,name) => {
    
 
     nodeMailer.transporter.sendMail({
-        from: 'rajpbarmaiya@gmail.com',
+        from: 'manishjangir05012001@gmail.com',
         to: user,
         // to:"rpbarmaiya@gmail.com",
         subject: "Password reseted Successfully",
