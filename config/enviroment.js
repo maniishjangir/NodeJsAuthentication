@@ -14,7 +14,7 @@ const devlopment={
 
     google_client_id: "410617945301-6ccfqlki6b4e371prm61ihiebdincbg4.apps.googleusercontent.com",
     google_client_secret: "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",
-    google_call_back_url: "http://localhost:7005/users/auth/google/callback"
+    google_call_back_url: "https://dashboard.render.com/web/srv-chfgi5e7avjbbjsa3rg0/users/auth/google/callback"
         
     
 }
